@@ -4,3 +4,10 @@
     box-sizing: border-box;
     text-decoration: none;
 }
+
+
+
+.header{
+    display: flex;
+    align-items: center;
+}
